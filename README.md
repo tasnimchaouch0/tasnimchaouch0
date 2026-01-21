@@ -66,6 +66,8 @@ I'm always excited to collaborate on innovative projects and discuss new ideas!
 
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tasnimchaouch0.github.io/PersonalPortfolio/)
 
+<img src="https://komarev.com/ghpvc/?username=tasnimchaouch0&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=150&section=footer)
