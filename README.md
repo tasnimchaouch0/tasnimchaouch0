@@ -13,46 +13,9 @@
 
 </div>
 
-### ✨ About Me
 
-```javascript
-const tasnim = {
-    location: "Tunisia 🌸",
-    status: "Available for exciting opportunities worldwide ✈️",
-    passion: ["AI & Machine Learning 🤖", "Beautiful UIs 💅", "Elegant Code 💫"],
-    currently: "Building intelligent systems that make a difference 💝"
-}
-```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-### 💖 What I Do
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" alt="AI/ML" />
-        <h3 align="center">🎀 AI & Machine Learning</h3>
-      </div>
-      <p align="center">Building intelligent models with TensorFlow & PyTorch, specializing in computer vision and data analysis</p>
-    </td>
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" alt="Full-Stack" />
-        <h3 align="center">🌸 Full-Stack Development</h3>
-      </div>
-      <p align="center">Crafting beautiful, responsive interfaces with React/Next.js and powerful backends with NestJS/ASP.NET</p>
-    </td>
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" alt="System Design" />
-        <h3 align="center">💫 System Design</h3>
-      </div>
-      <p align="center">Architecting scalable, efficient systems with Docker and designing elegant RESTful APIs</p>
-    </td>
-  </tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
