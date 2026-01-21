@@ -1,8 +1,6 @@
 <div align="center">
   
-<h1>✨ Tasnim Chaouch ✨</h1>
-<h3>Software Engineer & AI Enthusiast</h3>
-<p>Building intelligent, scalable, and beautiful digital experiences</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=300&section=header&text=Tasnim%20Chaouch&fontSize=90&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50)
 
 <p>
   <a href="https://tasnimchaouch0.github.io/PersonalPortfolio/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=react&logoColor=white" /></a>
