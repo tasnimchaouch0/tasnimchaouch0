@@ -1,6 +1,8 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=300&section=header&text=Tasnim%20Chaouch&fontSize=90&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50)
+
+<h1>✨ Tasnim Chaouch ✨</h1>
+<h3>Software Engineer & AI Enthusiast</h3>
+<p>Building intelligent, scalable, and beautiful digital experiences</p>
 
 <p>
   <a href="https://tasnimchaouch0.github.io/PersonalPortfolio/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=react&logoColor=white" /></a>
@@ -12,12 +14,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ### 🛠️ Tech Stack
 
@@ -43,7 +39,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  
+
 <img src="https://github-readme-stats.vercel.app/api?username=tasnimchaouch0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFFFFF" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnimchaouch0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" width="49%" />
 
@@ -66,4 +62,3 @@ I'm always excited to collaborate on innovative projects and discuss new ideas!
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=150&section=footer)
-
