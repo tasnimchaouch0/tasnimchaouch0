@@ -1,5 +1,5 @@
 <p>
-  <a href="https://tasnimchaouch0.github.io/PersonalPortfolio/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://tasnimchaouch.me"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tasnim-chaouch-b75836332/"><img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tasnimchaouch0@gmail.com"><img src="https://img.shields.io/badge/Email-DB7093?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/tasnimchaouch0"><img src="https://img.shields.io/badge/GitHub-C71585?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -13,6 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-FF1493?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-DB7093?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-C71585?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-FF69B4?style=for-the-badge&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-FF69B4?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-FF1493?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-DB7093?style=for-the-badge&logo=html5&logoColor=white)
