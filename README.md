@@ -1,18 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=300&section=header&text=Tasnim%20Chaouch&fontSize=90&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50)
-
-<p>
-  <a href="https://tasnimchaouch0.github.io/PersonalPortfolio/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tasnim-chaouch-b75836332/"><img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tasnimchaouch0@gmail.com"><img src="https://img.shields.io/badge/Email-DB7093?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/tasnimchaouch0"><img src="https://img.shields.io/badge/GitHub-C71585?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
 ### 🛠️ Tech Stack
 
 <div align="center">
