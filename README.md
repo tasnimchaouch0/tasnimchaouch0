@@ -1,4 +1,11 @@
-### 🛠️ Tech Stack
+<p>
+  <a href="https://tasnimchaouch0.github.io/PersonalPortfolio/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tasnim-chaouch-b75836332/"><img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tasnimchaouch0@gmail.com"><img src="https://img.shields.io/badge/Email-DB7093?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/tasnimchaouch0"><img src="https://img.shields.io/badge/GitHub-C71585?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+### Tech Stack
 
 <div align="center">
 
@@ -28,7 +35,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -37,19 +44,15 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnimchaouch0&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF1493&fire=FF69B4&currStreakLabel=FF69B4" width="60%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasnimchaouch0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <div align="center">
 
-### 💌 Let's Connect!
+### Let's Connect!
 
 I'm always excited to collaborate on innovative projects and discuss new ideas!
-
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tasnimchaouch0.github.io/PersonalPortfolio/)
 
 <img src="https://komarev.com/ghpvc/?username=tasnimchaouch0&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 
